@@ -1,3 +1,3 @@
-import "./app.css";
+import './app.css';
 
 console.log("Happy coding !!");
